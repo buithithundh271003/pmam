@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+.clock {
+  width: 100px;
+  height: 30px;
+  display: flex;
+  border: 2px solid black;
+  margin-left: 200px;
+  margin-top: 200px;
+  justify-content: center;
+  padding-top: 8px;
+  font-size: 1.1rem;
+}
